@@ -1,0 +1,8 @@
+name: !Jailbreaker
+displayName: Jailbreaker Mod
+author: Penta0308
+description: This is a useless description.
+version: "1.0"
+minGameVersion: "105"
+dependencies: []
+main: tk.skmserver.main
