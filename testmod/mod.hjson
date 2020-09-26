@@ -1,7 +1,0 @@
-name: testmod
-displayName: Jailbreaker Mod Tester
-author: Cute SK7725-Chan
-description: This is a useless description.
-version: "1.0"
-minGameVersion: "105"
-dependencies: []
