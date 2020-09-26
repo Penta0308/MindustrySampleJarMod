@@ -1,1 +1,0 @@
-print(java.net.InetAddress.getByName("google.com").toString());
